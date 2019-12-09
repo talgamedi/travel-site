@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/talgamedi/travel-site/issues"
   },
-  "homepage": "https://github.com/talgamedi/travel-site#readme"
+  "homepage": "https://github.com/talgamedi/travel-site#readme",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  }
 }
