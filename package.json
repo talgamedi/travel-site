@@ -19,6 +19,8 @@
   "homepage": "https://github.com/talgamedi/travel-site#readme",
   "devDependencies": {
     "lodash": "^4.17.15",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
