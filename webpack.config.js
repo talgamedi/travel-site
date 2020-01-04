@@ -5,6 +5,7 @@ const postCSSPlugins = [
   require('postcss-mixins'),
   require('postcss-simple-vars'), // name of the plugin that installed
   require('postcss-nested'), // name of the plugin that installed
+  require('postcss-hexrgba'),
   require('autoprefixer') // name of the plugin that installed
 ];
 
